@@ -1,0 +1,15 @@
+yfinance
+pandas
+numpy
+pyarrow
+
+matplotlib
+seaborn
+
+torch
+scikit-learn
+
+jupyter
+ipykernel
+
+vaderSentiment
